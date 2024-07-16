@@ -24,5 +24,7 @@ We developed an advanced web application for predicting the five-year risk of st
 - Interface: Provides an intuitive interface that allows users to easily input their data and obtain predictions regarding their stroke risk.
 - Dynamic Visualizations: The application utilizes Streamviz to create dynamic visualizations, including SHAP plots such as waterfall. These visualizations effectively illustrate how each feature contributes to the prediction of stroke risk.
 
-<image /Users/thanhphucphan/Desktop/Screenshot 2024-07-16 at 3.38.07 PM.png>
+# Interface
+![image](https://github.com/user-attachments/assets/2aa5c9d9-7dcf-4bb7-aa36-517a7e1650c9)
+
 
