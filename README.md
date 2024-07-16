@@ -2,7 +2,7 @@
 
 =============
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-blue.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-blue.svg" alt="Study Status: Study Started">
 
 - Study type: Real-world data generation and web application development
 - Tags: TMUCRD
