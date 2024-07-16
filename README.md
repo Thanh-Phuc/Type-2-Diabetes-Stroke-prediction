@@ -7,11 +7,8 @@
 - Study type: Real-world data generation and web application development
 - Tags: TMUCRD
 - Study lead: Phan Thanh Phuc, Alex Nguyen, Jason Hsu
-- Study start date: **-**
-- Study end date: **-**
-- Protocol: **-**
-- Publications: **-**
-- Results explorer: http://35.229.190.150/py/stroke/  
+- Study start date: May 2024
+- Web API: http://35.229.190.150/py/stroke/  
 
 # Introduction
 
